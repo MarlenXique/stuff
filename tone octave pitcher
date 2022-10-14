@@ -1,0 +1,3 @@
+tone = GetComponent<PianoKey>().tone;
+        octave = GetComponent<PianoKey>().octave;
+        pitcher = GetComponent<PianoKey>().pitcher;
